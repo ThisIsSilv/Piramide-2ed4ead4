@@ -1,5 +1,5 @@
 <?php
-echo "Hoegroet moet de driehoenk zijn";
+echo "Hoegroet moet de driehoenk zijn\n";
 $sterretjes = readline();
 
 for ($pyr1 = 1; $pyr1 <= $sterretjes; $pyr1++)
